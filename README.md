@@ -1,7 +1,7 @@
-# RazviOverflow's Ph.D. Dissertation and Slides
+# Behavior Analysis for Vulnerability and Malware Detection
+RazviOverflow's Ph.D. Dissertation and Slides.  
 Defense took place on July 16, 2025 at University of Zaragoza, Spain.
 
-## Behavior Analysis for Vulnerability and Malware Detection
 - [Ph.D. Dissertation](./PhD_Dissertation.pdf)
 - [Ph.D. Defense Slides](./PhD_Presentation.pdf)
 
